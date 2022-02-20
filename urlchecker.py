@@ -66,7 +66,7 @@ except:
     print("Please input url file")
     exit(0)
 
-with open('url1.txt', 'rt', newline='') as u:
+with open(urlfile, 'rt', newline='') as u:
     urls = u.read().splitlines()
     i = 0
     for url in urls:
