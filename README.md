@@ -1,5 +1,5 @@
 # urlchecker
-分别批量探测http和和https url存活，打印tile
+分别批量探测http和和https url存活，打印title
 
 ## 使用方法
 安装依赖  
